@@ -2,5 +2,10 @@ print("Commit 1")
 print("Commit 2")
 print("Commit 3")
 print("Commit 4")
+<<<<<<< HEAD
 
 print("Commit 5 en rama print")
+=======
+print("Commit 5")
+print("Commit 6")
+>>>>>>> main
